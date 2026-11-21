@@ -1,0 +1,2221 @@
+{
+ "total_s": 516.52,
+ "voice_s": 508.52,
+ "fps": 30,
+ "frames": 15496,
+ "scenes": [
+  {
+   "n": 1,
+   "title": "The empty window",
+   "mode": "E",
+   "start": 0.0,
+   "end": 6.425,
+   "storyboard_prior_start": 0,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "vanished": 5.587,
+    "first": 0.28,
+    "last": 5.587,
+    "speech_end": 6.03,
+    "start": 0.0,
+    "end": 6.425
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 0.0,
+     "t1": 5.587,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 5.587,
+     "t1": 6.425,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Not abandoned, not destroyed, vanished",
+   "mode": "E",
+   "start": 6.425,
+   "end": 11.975,
+   "storyboard_prior_start": 6,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "not2": 8.1,
+    "vanished": 10.96,
+    "first": 6.82,
+    "last": 10.96,
+    "speech_end": 11.57,
+    "start": 6.425,
+    "end": 11.975
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 6.425,
+     "t1": 8.1,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 8.1,
+     "t1": 10.96,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 10.96,
+     "t1": 11.975,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Gone, gone, gone",
+   "mode": "E",
+   "start": 11.975,
+   "end": 17.705,
+   "storyboard_prior_start": 12,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "g1": 13.348,
+    "g2": 14.638,
+    "g3": 17.08,
+    "streets": 13.993,
+    "people": 15.864,
+    "first": 12.38,
+    "last": 17.08,
+    "speech_end": 17.33,
+    "start": 11.975,
+    "end": 17.705
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 11.975,
+     "t1": 13.993,
+     "move": "tilt_up",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 13.993,
+     "t1": 15.864,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 15.864,
+     "t1": 17.705,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The question",
+   "mode": "E",
+   "start": 17.705,
+   "end": 22.675,
+   "storyboard_prior_start": 19,
+   "transition_in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "cues": {
+    "nobody": 19.82,
+    "first": 18.08,
+    "last": 21.906,
+    "speech_end": 22.25,
+    "start": 17.705,
+    "end": 22.675
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 17.705,
+     "t1": 19.82,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 19.82,
+     "t1": 22.675,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Over 2,300 years ago",
+   "mode": "E",
+   "start": 22.675,
+   "end": 40.155,
+   "storyboard_prior_start": 25,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "over": 23.1,
+    "ago": 24.818,
+    "helike": 30.046,
+    "writers": 31.611,
+    "disappeared": 36.256,
+    "first": 23.1,
+    "last": 39.614,
+    "speech_end": 39.77,
+    "start": 22.675,
+    "end": 40.155
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 22.675,
+     "t1": 26.361,
+     "move": "zoom",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 26.361,
+     "t1": 30.046,
+     "move": "zoom",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 30.046,
+     "t1": 31.611,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 31.611,
+     "t1": 36.256,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 36.256,
+     "t1": 40.155,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The search",
+   "mode": "E",
+   "start": 40.155,
+   "end": 59.315,
+   "storyboard_prior_start": 38,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "believed": 43.809,
+    "others": 46.48,
+    "archaeologists": 49.45,
+    "lost": 55.729,
+    "first": 40.54,
+    "last": 58.636,
+    "speech_end": 58.97,
+    "start": 40.155,
+    "end": 59.315
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 40.155,
+     "t1": 43.809,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 43.809,
+     "t1": 46.48,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 46.48,
+     "t1": 49.45,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 49.45,
+     "t1": 55.729,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 55.729,
+     "t1": 59.315,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Title card",
+   "mode": "E",
+   "start": 59.315,
+   "end": 62.155,
+   "storyboard_prior_start": 57,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "first": 59.66,
+    "last": 61.156,
+    "speech_end": 61.77,
+    "start": 59.315,
+    "end": 62.155
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 59.315,
+     "t1": 62.155,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "373 BC",
+   "mode": "E",
+   "start": 62.155,
+   "end": 70.375,
+   "storyboard_prior_start": 59,
+   "transition_in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "cues": {
+    "year": 67.623,
+    "bc": 69.582,
+    "first": 62.54,
+    "last": 69.582,
+    "speech_end": 70.01,
+    "start": 62.155,
+    "end": 70.375
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 62.155,
+     "t1": 67.623,
+     "move": "pan_l",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 67.623,
+     "t1": 70.375,
+     "move": "punch",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The coast of Achaea",
+   "mode": "E",
+   "start": 70.375,
+   "end": 79.745,
+   "storyboard_prior_start": 67,
+   "transition_in": {
+    "type": "wipe",
+    "dur": 0.5
+   },
+   "cues": {
+    "stood": 74.814,
+    "important": 77.598,
+    "peloponnese": 72.594,
+    "gulf": 73.887,
+    "helike": 75.989,
+    "achaea": 79.088,
+    "first": 70.74,
+    "last": 79.088,
+    "speech_end": 79.47,
+    "start": 70.375,
+    "end": 79.745
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 70.375,
+     "t1": 74.814,
+     "move": "zoom",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 74.814,
+     "t1": 77.598,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 77.598,
+     "t1": 79.745,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Temples and streets",
+   "mode": "E",
+   "start": 79.745,
+   "end": 88.365,
+   "storyboard_prior_start": 77,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "streets": 81.5,
+    "mythology": 85.81,
+    "poseidon": 87.36,
+    "first": 80.02,
+    "last": 87.36,
+    "speech_end": 87.97,
+    "start": 79.745,
+    "end": 88.365
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 79.745,
+     "t1": 81.5,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 81.5,
+     "t1": 85.81,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 85.81,
+     "t1": 88.365,
+     "move": "tilt_up",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Poseidon",
+   "mode": "L",
+   "start": 88.365,
+   "end": 97.405,
+   "storyboard_prior_start": 87,
+   "transition_in": {
+    "type": "wipe",
+    "dur": 0.5
+   },
+   "cues": {
+    "also": 91.729,
+    "earthquakes": 93.102,
+    "detail": 94.367,
+    "central": 95.324,
+    "first": 88.76,
+    "last": 96.708,
+    "speech_end": 97.05,
+    "start": 88.365,
+    "end": 97.405
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 88.365,
+     "t1": 91.729,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 91.729,
+     "t1": 94.367,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 94.367,
+     "t1": 97.405,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The earthquake",
+   "mode": "L",
+   "start": 97.405,
+   "end": 105.975,
+   "storyboard_prior_start": 97,
+   "transition_in": {
+    "type": "wipe",
+    "dur": 0.5
+   },
+   "cues": {
+    "ground": 103.18,
+    "buildings": 104.36,
+    "struck": 100.544,
+    "first": 97.76,
+    "last": 105.04,
+    "speech_end": 105.69,
+    "start": 97.405,
+    "end": 105.975
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 97.405,
+     "t1": 103.18,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 103.18,
+     "t1": 104.36,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 104.36,
+     "t1": 105.975,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "And then came the sea",
+   "mode": "L",
+   "start": 105.975,
+   "end": 112.845,
+   "storyboard_prior_start": 106,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "massive": 108.614,
+    "flooded": 110.059,
+    "destroying": 111.12,
+    "first": 106.26,
+    "last": 112.04,
+    "speech_end": 112.47,
+    "start": 105.975,
+    "end": 112.845
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 105.975,
+     "t1": 108.614,
+     "move": "locked",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 108.614,
+     "t1": 110.059,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 110.059,
+     "t1": 112.845,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Cities swallowed",
+   "mode": "L",
+   "start": 112.845,
+   "end": 120.485,
+   "storyboard_prior_start": 113,
+   "transition_in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "cues": {
+    "settlements": 117.249,
+    "first": 113.22,
+    "last": 119.434,
+    "speech_end": 120.15,
+    "start": 112.845,
+    "end": 120.485
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 112.845,
+     "t1": 116.831,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 116.831,
+     "t1": 120.485,
+     "move": "tilt_up",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "The caveat",
+   "mode": "E",
+   "start": 120.485,
+   "end": 136.845,
+   "storyboard_prior_start": 120,
+   "transition_in": {
+    "type": "crack",
+    "dur": 0.7
+   },
+   "cues": {
+    "much": 129.48,
+    "so": 134.32,
+    "first": 120.82,
+    "last": 136.028,
+    "speech_end": 136.53,
+    "start": 120.485,
+    "end": 136.845
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 120.485,
+     "t1": 124.982,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 124.982,
+     "t1": 129.48,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 129.48,
+     "t1": 134.32,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 134.32,
+     "t1": 136.845,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Follow the clues",
+   "mode": "E",
+   "start": 136.845,
+   "end": 140.685,
+   "storyboard_prior_start": 137,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "clues": 140.038,
+    "first": 137.16,
+    "last": 140.038,
+    "speech_end": 140.29,
+    "start": 136.845,
+    "end": 140.685
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 136.845,
+     "t1": 140.685,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Pausanias",
+   "mode": "E",
+   "start": 140.685,
+   "end": 162.195,
+   "storyboard_prior_start": 141,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "greek": 152.249,
+    "pausanias": 153.116,
+    "reported": 158.068,
+    "seen": 160.621,
+    "first": 141.08,
+    "last": 161.304,
+    "speech_end": 161.67,
+    "start": 140.685,
+    "end": 162.195
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 140.685,
+     "t1": 144.54,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 144.54,
+     "t1": 148.394,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 148.394,
+     "t1": 152.249,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 152.249,
+     "t1": 158.068,
+     "move": "pan_l",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 158.068,
+     "t1": 160.621,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 5,
+     "t0": 160.621,
+     "t1": 162.195,
+     "move": "tilt_dn",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Think about that",
+   "mode": "E",
+   "start": 162.195,
+   "end": 169.435,
+   "storyboard_prior_start": 161,
+   "transition_in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "cues": {
+    "first": 162.72,
+    "last": 168.616,
+    "speech_end": 168.97,
+    "start": 162.195,
+    "end": 169.435
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 162.195,
+     "t1": 165.742,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 165.742,
+     "t1": 169.435,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The remains fade",
+   "mode": "E",
+   "start": 169.435,
+   "end": 185.185,
+   "storyboard_prior_start": 169,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "eventually": 174.2,
+    "if": 180.58,
+    "where": 184.08,
+    "first": 169.9,
+    "last": 184.493,
+    "speech_end": 184.67,
+    "start": 169.435,
+    "end": 185.185
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 169.435,
+     "t1": 174.2,
+     "move": "tilt_dn",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 174.2,
+     "t1": 180.58,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 180.58,
+     "t1": 184.08,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 184.08,
+     "t1": 185.185,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "title": "1988",
+   "mode": "E",
+   "start": 185.185,
+   "end": 193.485,
+   "storyboard_prior_start": 185,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "1988": 192.361,
+    "efforts": 191.543,
+    "first": 185.7,
+    "last": 192.361,
+    "speech_end": 193.19,
+    "start": 185.185,
+    "end": 193.485
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 185.185,
+     "t1": 191.543,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 191.543,
+     "t1": 193.485,
+     "move": "pan_l",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "title": "The researchers",
+   "mode": "E",
+   "start": 193.485,
+   "end": 199.215,
+   "storyboard_prior_start": 194,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "dora": 194.701,
+    "physicist": 196.26,
+    "steven": 196.836,
+    "first": 193.78,
+    "last": 198.515,
+    "speech_end": 198.89,
+    "start": 193.485,
+    "end": 199.215
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 193.485,
+     "t1": 196.26,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 196.26,
+     "t1": 199.215,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "title": "The obvious plan: sonar",
+   "mode": "E",
+   "start": 199.215,
+   "end": 209.865,
+   "storyboard_prior_start": 199,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "sunk": 203.271,
+    "used": 206.767,
+    "sonar": 206.974,
+    "first": 199.54,
+    "last": 209.08,
+    "speech_end": 209.41,
+    "start": 199.215,
+    "end": 209.865
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 199.215,
+     "t1": 203.271,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 203.271,
+     "t1": 206.767,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 206.767,
+     "t1": 209.865,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "title": "The surprise",
+   "mode": "E",
+   "start": 209.865,
+   "end": 215.045,
+   "storyboard_prior_start": 210,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "they": 212.5,
+    "first": 210.32,
+    "last": 214.276,
+    "speech_end": 214.61,
+    "start": 209.865,
+    "end": 215.045
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 209.865,
+     "t1": 212.5,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 212.5,
+     "t1": 215.045,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "title": "What if the land changed?",
+   "mode": "E",
+   "start": 215.045,
+   "end": 231.525,
+   "storyboard_prior_start": 215,
+   "transition_in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "cues": {
+    "w1": 220.44,
+    "w2": 223.76,
+    "w3": 226.74,
+    "first": 215.48,
+    "last": 230.862,
+    "speech_end": 231.07,
+    "start": 215.045,
+    "end": 231.525
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 215.045,
+     "t1": 220.44,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 220.44,
+     "t1": 223.76,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 223.76,
+     "t1": 226.74,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 226.74,
+     "t1": 231.525,
+     "move": "pan_r",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "title": "A new direction",
+   "mode": "E",
+   "start": 231.525,
+   "end": 245.105,
+   "storyboard_prior_start": 234,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "shifted": 234.474,
+    "geological": 239.727,
+    "drilling": 241.406,
+    "geophysical": 242.046,
+    "first": 231.98,
+    "last": 244.313,
+    "speech_end": 244.69,
+    "start": 231.525,
+    "end": 245.105
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 231.525,
+     "t1": 234.474,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 234.474,
+     "t1": 239.727,
+     "move": "pan_l",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 239.727,
+     "t1": 241.406,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 241.406,
+     "t1": 242.046,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 242.046,
+     "t1": 245.105,
+     "move": "drift_l",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "title": "They found something",
+   "mode": "E",
+   "start": 245.105,
+   "end": 259.675,
+   "storyboard_prior_start": 248,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "found": 246.907,
+    "fragments": 251.0,
+    "walls": 252.76,
+    "evidence": 255.04,
+    "first": 245.52,
+    "last": 258.67,
+    "speech_end": 259.07,
+    "start": 245.105,
+    "end": 259.675
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 245.105,
+     "t1": 246.907,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 246.907,
+     "t1": 251.0,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 251.0,
+     "t1": 252.76,
+     "move": "tilt_dn",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 252.76,
+     "t1": 255.04,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 255.04,
+     "t1": 259.675,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "title": "The catch",
+   "mode": "E",
+   "start": 259.675,
+   "end": 281.735,
+   "storyboard_prior_start": 263,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "catch": 263.696,
+    "multiple": 266.054,
+    "older": 269.113,
+    "classical": 269.745,
+    "roman": 272.559,
+    "byzantine": 273.228,
+    "stories": 280.972,
+    "first": 260.28,
+    "last": 280.972,
+    "speech_end": 281.35,
+    "start": 259.675,
+    "end": 281.735
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 259.675,
+     "t1": 263.696,
+     "move": "tilt_dn",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 263.696,
+     "t1": 266.054,
+     "move": "tilt_up",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 266.054,
+     "t1": 269.113,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 269.113,
+     "t1": 272.559,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 272.559,
+     "t1": 276.765,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 5,
+     "t0": 276.765,
+     "t1": 280.972,
+     "move": "tilt_dn",
+     "hold": false
+    },
+    {
+     "i": 6,
+     "t0": 280.972,
+     "t1": 281.735,
+     "move": "tilt_up",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "title": "More complicated",
+   "mode": "E",
+   "start": 281.735,
+   "end": 288.275,
+   "storyboard_prior_start": 285,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "fact": 285.3,
+    "complicated": 287.278,
+    "first": 282.12,
+    "last": 287.278,
+    "speech_end": 287.77,
+    "start": 281.735,
+    "end": 288.275
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 281.735,
+     "t1": 285.3,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 285.3,
+     "t1": 288.275,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "title": "The bigger question",
+   "mode": "L",
+   "start": 288.275,
+   "end": 309.665,
+   "storyboard_prior_start": 293,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "whether": 294.309,
+    "traditional": 299.064,
+    "catastrophic": 303.987,
+    "beneath": 308.542,
+    "true": 296.966,
+    "first": 288.78,
+    "last": 309.053,
+    "speech_end": 309.21,
+    "start": 288.275,
+    "end": 309.665
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 288.275,
+     "t1": 294.309,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 294.309,
+     "t1": 299.064,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 299.064,
+     "t1": 303.987,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 303.987,
+     "t1": 308.542,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 308.542,
+     "t1": 309.665,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Raising questions",
+   "mode": "E",
+   "start": 309.665,
+   "end": 316.915,
+   "storyboard_prior_start": 314,
+   "transition_in": {
+    "type": "record",
+    "dur": 0
+   },
+   "cues": {
+    "findings": 314.691,
+    "first": 310.12,
+    "last": 316.078,
+    "speech_end": 316.51,
+    "start": 309.665,
+    "end": 316.915
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 309.665,
+     "t1": 314.691,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 314.691,
+     "t1": 316.915,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "title": "The 2021 study",
+   "mode": "E",
+   "start": 316.915,
+   "end": 335.235,
+   "storyboard_prior_start": 319,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "challenged": 322.828,
+    "argued": 325.969,
+    "did": 328.176,
+    "support": 328.62,
+    "way": 333.437,
+    "first": 317.32,
+    "last": 334.433,
+    "speech_end": 334.79,
+    "start": 316.915,
+    "end": 335.235
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 316.915,
+     "t1": 319.933,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 319.933,
+     "t1": 322.951,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 322.951,
+     "t1": 325.969,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 325.969,
+     "t1": 329.703,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 329.703,
+     "t1": 333.437,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 5,
+     "t0": 333.437,
+     "t1": 335.235,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "title": "Layers continue",
+   "mode": "E",
+   "start": 335.235,
+   "end": 341.395,
+   "storyboard_prior_start": 335,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "continue": 338.721,
+    "first": 335.68,
+    "last": 340.679,
+    "speech_end": 341.01,
+    "start": 335.235,
+    "end": 341.395
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 335.235,
+     "t1": 338.138,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 338.138,
+     "t1": 341.395,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "title": "The coins",
+   "mode": "E",
+   "start": 341.395,
+   "end": 348.465,
+   "storyboard_prior_start": 341,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "coins": 343.56,
+    "issued": 345.408,
+    "decades": 345.853,
+    "first": 341.78,
+    "last": 347.445,
+    "speech_end": 348.05,
+    "start": 341.395,
+    "end": 348.465
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 341.395,
+     "t1": 345.137,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 345.137,
+     "t1": 348.465,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "title": "Wait",
+   "mode": "E",
+   "start": 348.465,
+   "end": 356.595,
+   "storyboard_prior_start": 348,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "if": 349.88,
+    "how": 353.66,
+    "first": 348.88,
+    "last": 355.462,
+    "speech_end": 356.01,
+    "start": 348.465,
+    "end": 356.595
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 348.465,
+     "t1": 349.88,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 349.88,
+     "t1": 353.66,
+     "move": "punch",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 353.66,
+     "t1": 356.595,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "title": "Not nothing, not everything",
+   "mode": "E",
+   "start": 356.595,
+   "end": 370.665,
+   "storyboard_prior_start": 360,
+   "transition_in": {
+    "type": "dissolve",
+    "dur": 0.6
+   },
+   "cues": {
+    "damaged": 368.892,
+    "abandoned": 369.284,
+    "buried": 370.068,
+    "perhaps": 363.94,
+    "first": 357.18,
+    "last": 370.068,
+    "speech_end": 370.43,
+    "start": 356.595,
+    "end": 370.665
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 356.595,
+     "t1": 360.268,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 360.268,
+     "t1": 363.94,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 363.94,
+     "t1": 367.303,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 367.303,
+     "t1": 370.665,
+     "move": "drift_l",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "title": "How a story became a legend",
+   "mode": "E",
+   "start": 370.665,
+   "end": 386.795,
+   "storyboard_prior_start": 372,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "and": 377.6,
+    "sometimes": 380.46,
+    "disc2": 384.026,
+    "first": 370.9,
+    "last": 386.022,
+    "speech_end": 386.35,
+    "start": 370.665,
+    "end": 386.795
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 370.665,
+     "t1": 374.133,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 374.133,
+     "t1": 377.6,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 377.6,
+     "t1": 380.46,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 380.46,
+     "t1": 384.026,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 384.026,
+     "t1": 386.795,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "title": "What actually happened?",
+   "mode": "E",
+   "start": 386.795,
+   "end": 394.105,
+   "storyboard_prior_start": 391,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "honest": 391.259,
+    "first": 387.24,
+    "last": 393.523,
+    "speech_end": 393.77,
+    "start": 386.795,
+    "end": 394.105
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 386.795,
+     "t1": 390.635,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 390.635,
+     "t1": 394.105,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "title": "What the evidence shows",
+   "mode": "E",
+   "start": 394.105,
+   "end": 427.455,
+   "storyboard_prior_start": 400,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "some": 404.9,
+    "others": 413.42,
+    "exact": 419.775,
+    "first": 394.44,
+    "last": 426.635,
+    "speech_end": 427.05,
+    "start": 394.105,
+    "end": 427.455
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 394.105,
+     "t1": 397.703,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 397.703,
+     "t1": 401.302,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 401.302,
+     "t1": 404.9,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 404.9,
+     "t1": 409.16,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 409.16,
+     "t1": 413.42,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 5,
+     "t0": 413.42,
+     "t1": 419.775,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 6,
+     "t0": 419.775,
+     "t1": 423.615,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 7,
+     "t0": 423.615,
+     "t1": 427.455,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "title": "The landscape changed",
+   "mode": "E",
+   "start": 427.455,
+   "end": 440.845,
+   "storyboard_prior_start": 428,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "landscape": 430.345,
+    "ancient": 432.22,
+    "coastline": 436.51,
+    "first": 427.86,
+    "last": 440.179,
+    "speech_end": 440.55,
+    "start": 427.455,
+    "end": 440.845
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 427.455,
+     "t1": 430.345,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 430.345,
+     "t1": 432.22,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 432.22,
+     "t1": 436.51,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 436.51,
+     "t1": 440.845,
+     "move": "zoom",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "title": "Hidden so well",
+   "mode": "E",
+   "start": 440.845,
+   "end": 457.555,
+   "storyboard_prior_start": 441,
+   "transition_in": {
+    "type": "dissolve",
+    "dur": 1.0
+   },
+   "cues": {
+    "first": 441.14,
+    "last": 456.917,
+    "speech_end": 457.13,
+    "start": 440.845,
+    "end": 457.555
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 440.845,
+     "t1": 444.921,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 444.921,
+     "t1": 449.131,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 449.131,
+     "t1": 453.519,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 453.519,
+     "t1": 457.555,
+     "move": "drift",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "title": "Disappearing from memory",
+   "mode": "E",
+   "start": 457.555,
+   "end": 467.655,
+   "storyboard_prior_start": 458,
+   "transition_in": {
+    "type": "dissolve",
+    "dur": 1.0
+   },
+   "cues": {
+    "perhaps": 458.242,
+    "not": 461.14,
+    "first": 457.98,
+    "last": 466.753,
+    "speech_end": 467.25,
+    "start": 457.555,
+    "end": 467.655
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 457.555,
+     "t1": 460.885,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 460.885,
+     "t1": 464.035,
+     "move": "drift_l",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 464.035,
+     "t1": 467.655,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "title": "The people of Helike",
+   "mode": "E",
+   "start": 467.655,
+   "end": 484.485,
+   "storyboard_prior_start": 468,
+   "transition_in": {
+    "type": "dissolve",
+    "dur": 0.8
+   },
+   "cues": {
+    "they": 472.06,
+    "built": 473.352,
+    "worshipped": 474.395,
+    "imagined": 476.288,
+    "probably": 478.86,
+    "even": 483.285,
+    "first": 468.06,
+    "last": 483.702,
+    "speech_end": 484.09,
+    "start": 467.655,
+    "end": 484.485
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 467.655,
+     "t1": 472.06,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 472.06,
+     "t1": 473.352,
+     "move": "pull",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 473.352,
+     "t1": 474.395,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 3,
+     "t0": 474.395,
+     "t1": 476.288,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 4,
+     "t0": 476.288,
+     "t1": 478.86,
+     "move": "pan_r",
+     "hold": false
+    },
+    {
+     "i": 5,
+     "t0": 478.86,
+     "t1": 483.285,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 6,
+     "t0": 483.285,
+     "t1": 484.485,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "title": "Researchers continue",
+   "mode": "E",
+   "start": 484.485,
+   "end": 492.735,
+   "storyboard_prior_start": 484,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "strange": 491.805,
+    "leaves": 490.734,
+    "first": 484.88,
+    "last": 492.072,
+    "speech_end": 492.31,
+    "start": 484.485,
+    "end": 492.735
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 484.485,
+     "t1": 489.685,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 489.685,
+     "t1": 492.735,
+     "move": "pan_l",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "title": "How many other places?",
+   "mode": "E",
+   "start": 492.735,
+   "end": 503.115,
+   "storyboard_prior_start": 490,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "places": 494.239,
+    "stories": 497.343,
+    "lost": 500.514,
+    "found": 502.452,
+    "first": 493.16,
+    "last": 502.452,
+    "speech_end": 502.65,
+    "start": 492.735,
+    "end": 503.115
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 492.735,
+     "t1": 497.343,
+     "move": "push",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 497.343,
+     "t1": 500.514,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 2,
+     "t0": 500.514,
+     "t1": 503.115,
+     "move": "pull",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "title": "The final line",
+   "mode": "E",
+   "start": 503.115,
+   "end": 508.52,
+   "storyboard_prior_start": 508,
+   "transition_in": {
+    "type": "whip",
+    "dur": 0.33
+   },
+   "cues": {
+    "gone": 506.1,
+    "hidden": 507.696,
+    "first": 503.58,
+    "last": 507.696,
+    "speech_end": 508.01,
+    "start": 503.115,
+    "end": 508.52
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 503.115,
+     "t1": 508.52,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "title": "End card",
+   "mode": "E",
+   "start": 508.52,
+   "end": 516.52,
+   "storyboard_prior_start": 508,
+   "transition_in": {
+    "type": "cut",
+    "dur": 0
+   },
+   "cues": {
+    "start": 508.52,
+    "end": 516.52
+   },
+   "hold_beat_from": null,
+   "beats": [
+    {
+     "i": 0,
+     "t0": 508.52,
+     "t1": 512.52,
+     "move": "drift",
+     "hold": false
+    },
+    {
+     "i": 1,
+     "t0": 512.52,
+     "t1": 516.52,
+     "move": "push",
+     "hold": false
+    }
+   ]
+  }
+ ]
+}
