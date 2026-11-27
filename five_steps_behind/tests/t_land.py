@@ -1,0 +1,16 @@
+import sys, time; sys.path.insert(0,'.')
+from core import *
+import cv2
+t0=time.time()
+v = View(W,H,-0.18,1350*S,W/2,0.42*H)
+s = sky(v); mc, ma = mountains(v)
+cs = CloudSea(v); hcld = HighCloud(v)
+print('static', time.time()-t0)
+t0=time.time()
+img = s.copy()
+c,a = hcld.render(0); img = over(img,c,a)
+c,a = cs.render(0); img = over(img,c,a)
+img = over_pm(img, mc, ma)
+out = post(img, 0, dict(bloom=0.5))
+print('frame', time.time()-t0)
+from PIL import Image; Image.fromarray(out).save('tests/land_%d.png' % int(time.time()))
