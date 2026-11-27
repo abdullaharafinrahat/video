@@ -1,0 +1,7 @@
+file '/home/user/five_steps/tests/seg_00_Shot1.mp4'
+file '/home/user/five_steps/tests/seg_01_Shot2.mp4'
+file '/home/user/five_steps/tests/seg_02_Shot3.mp4'
+file '/home/user/five_steps/tests/seg_03_Shot4.mp4'
+file '/home/user/five_steps/tests/seg_04_Shot5.mp4'
+file '/home/user/five_steps/tests/seg_05_Shot6.mp4'
+file '/home/user/five_steps/tests/seg_06_Shot7.mp4'
